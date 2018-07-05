@@ -1,5 +1,12 @@
-# Demos
+<h1 align="center">
+  <img src="https://on.ahmda.ws/sjK6/c" />
 
-My demos for web development class that I am teaching nowadays.
+gulp-poodle
 
--   First demo: A custom tip landing page.
+</h1>
+
+> A gulp static site builder with Pug and SCSS.
+
+---
+
+###### — Feel free to tweet and say 👋 at me [@MaedahBatool](https://twitter.com/MaedahBatool/)

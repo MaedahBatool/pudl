@@ -2,7 +2,6 @@
  * Gulpfile.
  *
  * @author Maedah Batool (https://github.com/maedahbatool)
- * @version 1.0.0
  */
 
 // Configure.
