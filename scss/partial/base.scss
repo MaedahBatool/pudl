@@ -1,0 +1,31 @@
+*,
+*:after,
+*:before {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%; /* Now 1rem = 10px*/
+	height: 100%;
+	min-height: 100%;
+}
+
+h1,
+h2,
+h3 {
+	font-family: 'Quando', serif;
+}
+
+/* Handle Gists */
+
+.gist-meta {
+	display: none;
+}
+.gist .gist-file {
+	margin-bottom: 0 !important;
+}
+
+.gist .gist-data,
+.gist .gist-file {
+	border: 0 !important;
+}

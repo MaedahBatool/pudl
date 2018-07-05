@@ -1,0 +1,16 @@
+/*! ----------------------------------------------------------------------------
+ * Main Stylesheet file.
+ *
+ * Source file for all SCSS files.
+ * ------------------------------------------------------------------------- */
+
+// — VENDORS.
+
+// Normalize.
+// @import 'vendor/normalize';
+
+// — PARTIALS.
+
+@import 'partial/body'; // CSS styles basics
+@import 'partial/base'; // CSS styles for entire web-page
+@import 'partial/variables'; // Variables file
