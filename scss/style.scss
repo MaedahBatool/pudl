@@ -5,12 +5,9 @@
  * ------------------------------------------------------------------------- */
 
 // — VENDORS.
-
-// Normalize.
-// @import 'vendor/normalize';
+@import 'vendor/normalize';
 
 // — PARTIALS.
-
-@import 'partial/body'; // CSS styles basics
-@import 'partial/base'; // CSS styles for entire web-page
 @import 'partial/variables'; // Variables file
+@import 'partial/base'; // CSS styles for entire web-page
+@import 'partial/body'; // CSS styles basics
