@@ -9,5 +9,11 @@
 	},
 	"scripts": {
 		"start": "gulp"
-	}
+	},
+	"keywords": [
+		"pug",
+		"scss",
+		"gulp",
+		"sass"
+	]
 }
