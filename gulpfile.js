@@ -19,6 +19,9 @@ const gulp = require('gulp');
 const pug = require('gulp-pug');
 const sass = require('gulp-sass');
 
+/**
+ * Pug
+ */
 gulp.task('pug', function() {
 	return gulp
 		.src(config.pugSrc)
@@ -30,23 +33,20 @@ gulp.task('pug', function() {
 		.pipe(gulp.dest(config.pugDst));
 });
 
+/**
+ * Scss
+ */
 gulp.task('scss', function() {
 	return gulp
-		.src('config.scssSrc')
+		.src(config.scssSrc)
 		.pipe(sass({ outputStyle: 'compressed' }).on('error', sass.logError))
-		.pipe(gulp.dest('config.scssDst'));
+		.pipe(gulp.dest(config.scssDst));
 });
 
+/**
+ * Default
+ */
 gulp.task('default', ['pug', 'scss'], function() {
 	gulp.watch(config.pugWatchFiles, ['pug']);
 	gulp.watch(config.scssWatchFiles, ['scss']);
 });
-
-// gulp.task('default', ['pug', 'scss'], function () {
-// 	gulp.watch(pugFiles, 'pug');
-// 	gulp.watch(scssFiles, 'scss');
-// });
-
-// gulp.task('hi', function() {
-// 	console.log('Hi Meow');
-// });
