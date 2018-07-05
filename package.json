@@ -5,10 +5,12 @@
 	"devDependencies": {
 		"gulp": "^3.9.1",
 		"gulp-pug": "^4.0.1",
-		"gulp-sass": "^4.0.1"
+		"gulp-sass": "^4.0.1",
+		"release-it": "^7.4.7"
 	},
 	"scripts": {
-		"start": "gulp"
+		"start": "gulp",
+		"release": "release-it"
 	},
 	"keywords": [
 		"pug",
