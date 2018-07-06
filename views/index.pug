@@ -13,7 +13,7 @@ html(lang='en')
 				.top_inner
 					h1
 						span 🙌
-						| 					Start Using BrowserSync Today!
+						| Start Using BrowserSync Today!
 					p
 						| Browsersync is one of my favorite plugins for live browser reloads. Here's a quick setup guide for configuring BrowserSync
 						| to speed your web development workflow.
@@ -58,3 +58,6 @@ html(lang='en')
 			a(href='https://maedahbatool.com/') Maedah Batool
 			|  | Say 👋on
 			a(href='https://twitter.com/MaedahBatool') Twitter
+
+		script#__bs_script__.
+			document.write("<script async src='http://HOST:3000/browser-sync/browser-sync-client.js?v=2.24.5'><\\/script>".replace("HOST", location.hostname));
