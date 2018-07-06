@@ -3,6 +3,7 @@
 	"version": "0.2.0",
 	"author": "Maedah Batool (https://MaedahBatool.com/)",
 	"devDependencies": {
+		"browser-sync": "^2.24.5",
 		"gulp": "^3.9.1",
 		"gulp-pug": "^4.0.1",
 		"gulp-sass": "^4.0.1",
