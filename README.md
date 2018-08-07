@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="http://on.ahmda.ws/2U1T1A1l2n1f/c" />
+  <img src="https://on.ahmda.ws/sjK6/c" />
 
 gulp-poodle
 
