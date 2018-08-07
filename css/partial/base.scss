@@ -29,3 +29,21 @@ h3 {
 .gist .gist-file {
 	border: 0 !important;
 }
+
+/* MAIN CSS */
+
+.main {
+	display: table;
+	width: 100%;
+}
+
+h2 {
+	font-size: 2.5rem;
+}
+
+p {
+	font-size: 1.8rem;
+	max-width: 60rem;
+	margin: 0 auto;
+	line-height: 1.4;
+}

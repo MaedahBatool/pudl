@@ -1,44 +1,35 @@
 .top {
-	display: table;
-	width: 100%;
-	margin: 0 auto;
+	@include disp; // scss mixin for display properties
+
 	background: tomato;
 	padding: 5rem;
 	text-align: center;
 	min-height: 60vh;
-	background: #ff416c; /* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #ff4b2b, #ff416c); /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(
-		to right,
-		#ff4b2b,
-		#ff416c
-	); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
+	background: #ff416c;
+	background: linear-gradient(to right, #ff4b2b, #ff416c);
 
-.top_inner {
-	display: table-cell;
-	vertical-align: middle;
-}
+	&_inner {
+		display: table-cell;
+		vertical-align: middle;
+	}
 
-.top h1 {
-	display: table;
-	width: 100%;
-	vertical-align: middle;
-	font-size: 4rem;
-	color: white;
-}
+	h1 {
+		@include disp; // scss mixin for display
+		vertical-align: middle;
+		color: white;
+		font-size: 4rem;
 
-.top h1 > span {
-	display: table;
-	width: 100%;
-	margin: 0 auto 0.5rem;
-}
+		.emoji {
+			@include disp;
+			margin: 0 auto 0.5rem;
+		}
+	}
 
-.top p {
-	display: table;
-	width: 100%;
-	vertical-align: middle;
-	font-size: 1.6rem;
-	color: white;
-	line-height: 1.4;
+	p {
+		@include disp;
+		vertical-align: middle;
+		color: white;
+		font-size: 1.6rem;
+		line-height: 1.4;
+	}
 }

@@ -1,0 +1,13 @@
+include ./mixins/header
+include ./mixins/top
+include ./mixins/steps
+include ./mixins/footer
+
+- var title = "Tip 1"
+- var dsc = "This is description."
+
+
++header(title, dsc)
++top('🎯', title, dsc )
++steps()
++footer()

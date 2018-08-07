@@ -4,18 +4,12 @@
  * @author Maedah Batool (https://github.com/maedahbatool)
  */
 
-// Configure.
-const config = {
-	viewSrc: './views/**/*.pug',
-	viewDst: './',
-	styleSrc: './css/style.scss',
-	styleDst: './',
-	outputStyle: 'compressed',
-	viewWatchFiles: './views/**/*.pug',
-	styleWatchFiles: './css/**/*.scss',
-	browserAutoOpen: true,
-	injectChanges: true
-};
+/**
+ * Load Config.
+ *
+ * Customize your project in the config.js file
+ */
+const config = require('./config.js');
 
 const gulp = require('gulp');
 const pug = require('gulp-pug');
@@ -23,7 +17,7 @@ const sass = require('gulp-sass');
 const browserSync = require('browser-sync').create();
 const reload = browserSync.reload;
 var notify = require('gulp-notify'); // Sends message notification to you.
-var plumber = require('gulp-plumber'); // Prevent pipe breaking caused by errors from gulp plugins.
+var plumber = require('gulp-plumber'); // Prevent pipe breaking caused by errors.
 
 /**
  * view
@@ -44,7 +38,8 @@ gulp.task('view', function() {
 				pretty: true
 			})
 		)
-		.pipe(gulp.dest(config.viewDst));
+		.pipe(gulp.dest(config.viewDst))
+		.pipe(notify({ message: '\n\n✅   ===> VIEWS completed!\n\n', onLast: true }));
 });
 
 /**
@@ -63,7 +58,8 @@ gulp.task('style', function() {
 		)
 		.pipe(sass({ outputStyle: config.outputStyle }).on('error', sass.logError))
 		.pipe(gulp.dest(config.styleDst))
-		.pipe(browserSync.stream({ match: '**/*.css' }));
+		.pipe(browserSync.stream({ match: '**/*.css' }))
+		.pipe(notify({ message: '\n\n✅  ===> STYLES completed!\n\n', onLast: true }));
 });
 
 /**
@@ -90,7 +86,7 @@ gulp.task('bSync', function() {
 		// Serve files from the current directory.
 		server: true
 	});
-});
+});˙
 
 /**
  * Default

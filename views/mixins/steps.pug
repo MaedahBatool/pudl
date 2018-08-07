@@ -1,0 +1,36 @@
+mixin steps()
+	.steps
+		.step
+			h2
+				| #1: Install NodeJS & NPM
+			p
+				| BrowserSync is an NPM package, and it needs Node.js to be installed. If you’ve already installed it earlier, just check through
+				| the following commands or download and install it from
+				a(href='https://nodejs.org/en/download/') here
+				| .
+			.todo
+				script(src='https://gist.github.com/MaedahBatool/913b0ef676873c1598ad3fd08e27567b.js?file=1.sh')
+		.step
+			h2
+				| #2: Install BrowserSync
+			p
+				| Next, you’ll install BrowserSync globally by typing the following commands in your terminal.
+			.todo
+				script(src='https://gist.github.com/MaedahBatool/913b0ef676873c1598ad3fd08e27567b.js?file=2.sh')
+		.step
+			h2
+				| #3: Start Running BrowserSync
+			p
+				| BrowserSync creates a server for static websites and can be used as a proxy for dynamic sites. Therefore, it defines separate
+				| commands for each of these.
+			.todo
+				script(src='https://gist.github.com/MaedahBatool/913b0ef676873c1598ad3fd08e27567b.js?file=3.sh')
+		.step
+			h2
+				| #4: Tunneling
+			p
+				| One of the best things which I like about BrowserSync is that you can share a local development site with your teammates
+				| over the internet right from your own computer. This is its tunnel option comes into play. Each time you start BrowserSync,
+				| just enter the following command:
+			.todo
+				script(src='https://gist.github.com/MaedahBatool/913b0ef676873c1598ad3fd08e27567b.js?file=4.sh')
