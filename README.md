@@ -11,7 +11,7 @@ pudl
     <tr>
         <td align='left' width='100%' colspan='2'>
             <strong>pudl</strong><br />
-            🎯 **pudl** is a JavaScript-based static site generator for quick-prototyping of awesome little static demos while teaching/presenting.
+            🎯 pudl is a JavaScript-based static site generator for quick-prototyping of awesome little static demos while teaching/presenting.
         </td>
     </tr>
     <tr>
