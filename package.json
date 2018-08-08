@@ -1,6 +1,6 @@
 {
 	"name": "pudl",
-	"version": "0.3.0",
+	"version": "0.4.0",
 	"description": "A JavaScript-based static site generator for quick-prototyping of awesome little static demos while teaching/presenting",
 	"scripts": {
 		"release": "release-it",
