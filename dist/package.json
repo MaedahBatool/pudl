@@ -1,6 +1,6 @@
 {
 	"name": "your-project",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"author": "Maedah Batool (https://MaedahBatool.com/)",
 	"devDependencies": {
 		"browser-sync": "^2.24.5",
@@ -12,11 +12,5 @@
 	},
 	"scripts": {
 		"start": "gulp"
-	},
-	"keywords": [
-		"pug",
-		"scss",
-		"gulp",
-		"sass"
-	]
+	}
 }
