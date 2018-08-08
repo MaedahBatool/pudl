@@ -26,7 +26,7 @@ pudl
     </tr>
 </table>
 
-Use pudl for quick-prototyping of awesome little static demos while teaching/presenting.
+<!-- Use pudl for quick-prototyping of awesome little static demos while teaching/presenting. -->
 
 ![pudl](https://on.ahmda.ws/1a2d181b2j1P/c)
 
