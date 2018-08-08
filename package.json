@@ -1,0 +1,39 @@
+{
+	"name": "pudl",
+	"version": "0.1.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"release": "release-it && npx vsce publish",
+		"release-major": "release-it major",
+		"release-dry": "release-it --dry-run"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MaedahBatool/pudl.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/MaedahBatool/pudl/issues"
+	},
+	"homepage": "https://github.com/MaedahBatool/pudl#readme",
+	"devDependencies": {
+		"auto-changelog": "^1.8.0",
+		"release-it": "^7.5.0"
+	},
+	"auto-changelog": {
+		"output": "CHANGELOG.md",
+		"template": "clTemplate.hbs",
+		"commitLimit": false,
+		"package": true,
+		"replaceText": {
+			"FIX: ": "",
+			"NEW: ": "",
+			"IMPROVE: ": "",
+			"DOC: ": ""
+		}
+	}
+}

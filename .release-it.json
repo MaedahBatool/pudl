@@ -1,9 +1,15 @@
 {
+	"dry-run": false,
+	"verbose": false,
+	"force": true,
 	"non-interactive": true,
 	"increment": "minor",
+	"beforeChangelogCommand": "auto-changelog",
+	"safeBump": false,
 	"src": {
 		"commitMessage": "🦄 Release %s",
-		"tagAnnotation": "🦄 Release %s"
+		"tagAnnotation": "🦄 Release %s",
+		"afterReleaseCommand": "echo Successfully released ${version}."
 	},
 	"npm": {
 		"publish": true

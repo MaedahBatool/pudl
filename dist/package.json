@@ -1,6 +1,6 @@
 {
-	"name": "pudl",
-	"version": "0.2.0",
+	"name": "your-project",
+	"version": "0.0.0",
 	"author": "Maedah Batool (https://MaedahBatool.com/)",
 	"devDependencies": {
 		"browser-sync": "^2.24.5",
@@ -8,12 +8,10 @@
 		"gulp-notify": "^3.2.0",
 		"gulp-plumber": "^1.2.0",
 		"gulp-pug": "^4.0.1",
-		"gulp-sass": "^4.0.1",
-		"release-it": "^7.4.7"
+		"gulp-sass": "^4.0.1"
 	},
 	"scripts": {
-		"start": "gulp",
-		"release": "release-it"
+		"start": "gulp"
 	},
 	"keywords": [
 		"pug",
