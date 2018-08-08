@@ -16,7 +16,7 @@
 	},
 	"github": {
 		"release": true,
-		"releaseName": "🦄 %s"
+		"releaseName": "🐶 %s"
 	},
 	"prompt": {
 		"src": {
