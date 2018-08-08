@@ -28,7 +28,7 @@ pudl
 
 Use pudl for quick-prototyping of awesome little static demos while teaching/presenting.
 
-![pudl](https://imgur.com/a/ogb1cvw.png)
+![pudl](https://on.ahmda.ws/1a2d181b2j1P/c)
 
 ## ⚡️ What Can `pudl` Do?
 
