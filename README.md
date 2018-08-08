@@ -20,7 +20,7 @@ pudl
         </td>
         <td align='center'>
             <a href='https://MaedahBatool.com/'>
-                <img src='https://on.ahmda.ws/41331l2G0d0S/c' width='100' />
+                <img src='https://img.shields.io/badge/MAEDAH-BATOOL-gray.svg?colorA=5734F5&style=flat-square' width='100' />
             </a>
         </td>
     </tr>
