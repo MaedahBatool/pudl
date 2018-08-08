@@ -1,11 +1,9 @@
 {
 	"name": "pudl",
 	"version": "0.1.0",
-	"description": "",
-	"main": "index.js",
+	"description": "A JavaScript-based static site generator for quick-prototyping of awesome little static demos while teaching/presenting",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"release": "release-it && npx vsce publish",
+		"release": "release-it",
 		"release-major": "release-it major",
 		"release-dry": "release-it --dry-run"
 	},
@@ -13,9 +11,14 @@
 		"type": "git",
 		"url": "git+https://github.com/MaedahBatool/pudl.git"
 	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
+	"keywords": [
+		"pug",
+		"scss",
+		"gulp",
+		"sass"
+	],
+	"author": "Maedah Batool (https://MaedahBatool.com/)",
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/MaedahBatool/pudl/issues"
 	},
