@@ -55,10 +55,10 @@ Download [`gulpfile.js`](https://raw.githubusercontent.com/MaedahBatool/pudl/mas
 
 _**OR** use your terminal to browse your desired folder and run the following command which will download all the required files for you via cURL._
 
-˙```sh
+```sh
 curl -L https://git.io/pudlgf -o "gulpfile.js" && curl -L https://git.io/pudlpkg -o "pacakge.json" && curl -L https://git.io/pudlgi -o ".gitignore" && curl -L https://git.io/pudlcfg -o "config.js"
+```
 
-````
 ### ➡️ STEP #2: Editing the Project Variables
 
 Change the project variables in the `config.js` file according to your folder structure.
@@ -76,7 +76,7 @@ module.exports = {
 	browserAutoOpen: false,
 	injectChanges: true
 };
-````
+```
 
 ### ➡️ STEP #3: Installing Node Dependencies
 
