@@ -26,6 +26,10 @@ pudl
     </tr>
 </table>
 
+Use pudl for quick-prototyping of awesome little static demos while teaching/presenting.
+
+![pudl](https://imgur.com/a/ogb1cvw.png)
+
 ## ⚡️ What Can `pudl` Do?
 
 1.  Live reloads browser with BrowserSync.
