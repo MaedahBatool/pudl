@@ -55,16 +55,16 @@ Download [`gulpfile.js`](https://raw.githubusercontent.com/MaedahBatool/pudl/mas
 
 _**OR** use your terminal to browse your desired folder and run the following command which will download all the required files for you via cURL._
 
-```bash
-curl -L https://git.io/pudlgf -o "gulpfile.js" && curl -L https://git.io/pudlpkg -o "pacakge.json"  && curl -L https://git.io/pudlgi -o ".gitignore" && curl -L https://git.io/pudlcfg -o "config.js"
-```
+˙```sh
+curl -L https://git.io/pudlgf -o "gulpfile.js" && curl -L https://git.io/pudlpkg -o "pacakge.json" && curl -L https://git.io/pudlgi -o ".gitignore" && curl -L https://git.io/pudlcfg -o "config.js"
 
+````
 ### ➡️ STEP #2: Editing the Project Variables
 
 Change the project variables in the `config.js` file according to your folder structure.
 
-```
-	// Project Variables.
+```js
+// Project Variables.
 module.exports = {
 	viewSrc: './views/**/*.pug',
 	viewDst: './',
@@ -76,13 +76,13 @@ module.exports = {
 	browserAutoOpen: false,
 	injectChanges: true
 };
-```
+````
 
 ### ➡️ STEP #3: Installing Node Dependencies
 
 In the root folder install the Node Dependencies. In the terminal run this command and wait for it to download all the `node.js` dependencies. It's a one-time process and can take about 5 minutes depending on the speed of your internet connection.
 
-```bash
+```sh
 # For MAC OS X run the following command with super user.
 sudo npm install
 
@@ -94,7 +94,7 @@ npm install
 
 Finally run the following command to get up and running with pudl.
 
-```bash
+```sh
 # To start pudl
 npm start
 
