@@ -20,7 +20,7 @@
 
 ![pudl](https://on.ahmda.ws/1a2d181b2j1P/c)
 
-## ⚡️ What Can `pudl` Do?
+## 🐶 What Can `pudl` Do?
 
 1.  Live reloads browser with BrowserSync.
 2.  CSS: Sass to CSS conversion, error catching, Autoprefixing and CSS minification.
@@ -30,10 +30,10 @@
 6.  Sends message notification to you.
 7.  Prevents pipe breaking caused by errors.
 
-## 🎗 Getting Started?
+## 🔥 Getting Started?
 
 <details>
- <summary><strong> STEP #0</strong> — Don't have <code>Node.js</code> + <code>npm</code> installed? Read this. (CLICK TO EXPAND!)</summary>
+ <summary><strong> ➡️ STEP #0</strong> — Don't have <code>Node.js</code> + <code>npm</code> installed? Read this. (CLICK TO EXPAND!)</summary>
 
 In case you are an absolute beginner to the world of `Node.js`, JavaScript, and `npm` packages — all you need to do is go to the Node's site [download + install](https://nodejs.org/en/download/) Node on your system. This will install both `Node.js` and `npm`, i.e., node package manager — the command line interface of Node.js.
 
@@ -49,7 +49,7 @@ npm -v
 
 </details>
 
-### → Step #1. Download the Required Files
+### ➡️ Step #1. Download the Required Files
 
 Download [`gulpfile.js`](https://raw.githubusercontent.com/MaedahBatool/pudl/master/gulpfile.js), [`package.json`](https://raw.githubusercontent.com/MaedahBatool/pudl/master/package.json), [`.gitignore`](https://raw.githubusercontent.com/MaedahBatool/pudl/master/.gitignore) and [`config.js`](https://raw.githubusercontent.com/MaedahBatool/pudl/master/config.js) files inside the root folder of your project.
 
@@ -59,7 +59,7 @@ _**OR** use your terminal to browse your desired folder and run the following co
 curl -L https://git.io/pudlgf -o "gulpfile.js" && curl -L https://git.io/pudlpkg -o "pacakge.json"  && curl -L https://git.io/pudlgi -o ".gitignore" && curl -L https://git.io/pudlcfg -o "config.js"
 ```
 
-### → STEP #2: Editing the Project Variables
+### ➡️ STEP #2: Editing the Project Variables
 
 Change the project variables in the `config.js` file according to your folder structure.
 
@@ -78,7 +78,7 @@ module.exports = {
 };
 ```
 
-### → STEP #3: Installing Node Dependencies
+### ➡️ STEP #3: Installing Node Dependencies
 
 In the root folder install the Node Dependencies. In the terminal run this command and wait for it to download all the `node.js` dependencies. It's a one-time process and can take about 5 minutes depending on the speed of your internet connection.
 
@@ -90,7 +90,7 @@ sudo npm install
 npm install
 ```
 
-### → STEP #4: Just run `npm start`
+### ➡️ STEP #4: Just run `npm start`
 
 Finally run the following command to get up and running with pudl.
 
