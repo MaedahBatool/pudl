@@ -86,7 +86,7 @@ gulp.task('bSync', function() {
 		// Serve files from the current directory.
 		server: true
 	});
-});˙
+});
 
 /**
  * Default
