@@ -1,16 +1,8 @@
-<h1 align="center">
-  <img src="https://on.ahmda.ws/sjK6/c" />
-
-pudl
-
-</h1>
-
 [![npm](https://img.shields.io/npm/v/gulp-poodle.svg?style=flat-square)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/npm/dt/gulp-poodle.svg?style=flat-square&label=downloads)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/badge/pug-html-gray.svg?colorA=A86454&style=flat-square)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/badge/sass-css-gray.svg?colorA=C6538B&style=flat-square)](https://www.npmjs.com/package/gulp-poodle)
 
 <table width='100%'>
     <tr>
         <td align='left' width='100%' colspan='2'>
-            <!-- <strong>pudl</strong><br /> -->
             🎯 pudl is a JavaScript-based static site generator for quick-prototyping of awesome little static demos while teaching/presenting.
         </td>
     </tr>
@@ -25,8 +17,6 @@ pudl
         </td>
     </tr>
 </table>
-
-<!-- Use pudl for quick-prototyping of awesome little static demos while teaching/presenting. -->
 
 ![pudl](https://on.ahmda.ws/1a2d181b2j1P/c)
 
