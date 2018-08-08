@@ -7,9 +7,24 @@ pudl
 
 [![npm](https://img.shields.io/npm/v/gulp-poodle.svg?style=flat-square)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/npm/dt/gulp-poodle.svg?style=flat-square&label=downloads)](https://www.npmjs.com/package/gulp-poodle)
 
-# pudl
-
-> **pudl** is a JavaScript-based static site generator for quick-prototyping of awesome little static demos while teaching/presenting.
+<table width='100%'>
+    <tr>
+        <td align='left' width='100%' colspan='2'>
+            <strong>pudl</strong><br />
+            🎯 **pudl** is a JavaScript-based static site generator for quick-prototyping of awesome little static demos while teaching/presenting.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            A FOSS (Free & Open Source Software) project. Maintained by <a href='https://github.com/maedahbatool'>@MaedahBatool</a>.
+        </td>
+        <td align='center'>
+            <a href='https://MaedahBatool.com/'>
+                <img src='https://imgur.com/a/ogb1cvw' width='100' />
+            </a>
+        </td>
+    </tr>
+</table>
 
 ## ⚡️ What Can `pudl` Do?
 
