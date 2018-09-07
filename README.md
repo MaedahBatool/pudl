@@ -142,4 +142,4 @@ This open source project is maintained by the help of awesome businesses listed 
 	</tr>
 </table>
 
-###### — Feel free to tweet and say 👋 at me [@MaedahBatool](https://twitter.com/MaedahBatool/)
+### — Feel free to tweet and say 👋 at me [@MaedahBatool](https://twitter.com/MaedahBatool/)
