@@ -103,8 +103,6 @@ npm start
 
 Now `gulp` will start watching your `pug` and `sass` files for any changes and provides you with a link through which you can access your site locally.
 
----
-
 ## License
 
 Released under GNU GPLv2.0 or later license.
