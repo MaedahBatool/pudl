@@ -84,7 +84,7 @@ In the root folder install the Node Dependencies. In the terminal run this comma
 
 ```sh
 # For MAC OS X run the following command with super user.
-sudo npm install
+npm install
 
 # For Linux run the following command.
 npm install
