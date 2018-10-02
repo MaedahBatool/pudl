@@ -160,4 +160,4 @@ This open source project is maintained by the help of awesome businesses listed 
 	</tr>
 </table>
 
-##### → Feel free to tweet and say 👋 at me [@MaedahBatool](https://twitter.com/MaedahBatool/)
+_Follow me 👋 on Twitter for more updates and questions_ →  [![Tweet to say Hi](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/maedahbatool/)
