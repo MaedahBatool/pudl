@@ -11,16 +11,23 @@
  */
 const config = require('./config.js');
 
-const gulp = require('gulp');
-const pug = require('gulp-pug');
-const sass = require('gulp-sass');
-const browserSync = require('browser-sync').create();
+/**
+ * Load Plugins.
+ *
+ * Load all the required plugins.
+ */
+const gulp = require('gulp'); // Gulp of-course.
+const pug = require('gulp-pug'); // Compiles Pug templates.
+const sass = require('gulp-sass'); // Complies Sass.
+const browserSync = require('browser-sync').create(); // Reloads browser and injects CSS.
 const reload = browserSync.reload;
 var notify = require('gulp-notify'); // Sends message notification to you.
 var plumber = require('gulp-plumber'); // Prevent pipe breaking caused by errors.
 
 /**
- * view
+ * Task: `view`.
+ *
+ * Compliles the pug files.
  */
 gulp.task('view', function() {
 	return gulp
@@ -43,7 +50,9 @@ gulp.task('view', function() {
 });
 
 /**
- * TASK: style.
+ * Task: `style`.
+ *
+ * Compiles Sass to CSS, injects CSS or reload the browser.
  */
 gulp.task('style', function() {
 	return gulp
@@ -89,7 +98,9 @@ gulp.task('bSync', function() {
 });
 
 /**
- * Default
+ * Default Task.
+ *
+ * Watch for file changes and run specific tasks.
  */
 gulp.task('default', ['view', 'style', 'bSync'], function() {
 	gulp.watch(config.viewWatchFiles, ['view', reload]);
