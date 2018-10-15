@@ -103,6 +103,44 @@ npm start
 
 Now `gulp` will start watching your `pug` and `sass` files for any changes and provides you with a link through which you can access your site locally.
 
+## 🚀 Deploy on Heroku
+Following guide assumes that you have configured Heroku locally. If you haven't already, follow this [guide](https://devcenter.heroku.com/articles/heroku-cli) to configure. 
+
+### ➡️ Step #1. Install `http-server` Dependency
+Install `http-server` dependency in your pudl project by running following command. It allows node to serve the static site by creating server. 
+```sh
+npm install http-server --save
+```
+### ➡️ Step #2. Create the `Procfile`
+In order to deploy a project to Heroku, you have to create a Procfile. It contains certain commands to run when your project is deployed. When a Node project is deployed on Heroku, it automatically runs the `npm install` command to install all the dependencies excluding the dev dependencies. After that we need to run `http-server ./` command, which we are storing in the Procfile.
+```sh
+touch Procfile
+echo "web: http-server ./" >> Procfile
+```
+### ➡️ Step #3. Update the `.gitignore` File.
+When we initiate a Heroku instance and push our project, it basically adds a remote git origin. While deploying our project we don't need the tooling we have setup for quick prototyping. So, we have to put those files in the `.gititgnore` file. Add the following files to the `.gitignore` file.
+```
+# Files to ignore while deploying.
+./views
+./css
+gulpfile.js
+config.js
+package-lock.json
+```
+### ➡️ Step #4. Deploy
+Initiate a Heroku instance.
+```sh
+heroku create
+```
+Track all the files in your repository, commit, and push them to `heroku`.
+```sh
+git add .
+git commit -m "🚀 Deploy on heroku"
+git push heroku
+```
+Sit back and relax, it will take a few moments to deploy. <br><br>
+👉I have deployed a simple page using `pudl` on Heroku — [check it out](https://safe-taiga-24279.herokuapp.com/). 
+
 ## License
 
 Released under GNU GPLv2.0 or later license.
