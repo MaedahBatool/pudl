@@ -35,7 +35,7 @@
 ## 🔥 Getting Started?
 
 <details>
- <summary><strong style = "color:red"> STEP #0</strong> — Don't have <code>Node.js</code> + <code style= "color:blue">npm</code> installed? Read this. (CLICK TO EXPAND!)</summary>
+ <summary><strong style = "color:red"> STEP #0</strong> — Don't have <code>Node.js</code> + <code style= "color:pink">npm</code> installed? Read this. (CLICK TO EXPAND!)</summary>
 
 In case you are an absolute beginner to the world of `Node.js`, JavaScript, and `npm` packages — all you need to do is go to the Node's site [download + install](https://nodejs.org/en/download/) Node on your system. This will install both `Node.js` and `npm`, i.e., node package manager — the command line interface of Node.js.
 
@@ -63,7 +63,7 @@ curl -L https://git.io/pudlgfl -o "gulpfile.js" && curl -L https://git.io/pudlpk
 
 ### ➡️ STEP #2: Editing the Project Variables
 
-Change the project variables in the `config.js` file according to your folder structure.
+`Change` the project variables in the `config.js` file according to your folder structure.
 
 ```js
 // Project Variables.
