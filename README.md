@@ -5,7 +5,7 @@
 <table width='100%'>
     <tr>
         <td align='left' width='100%' colspan='2'>
-            🎯  <code>pudl</code> is a JavaScript-based static site generator for quick-prototyping of awesome little static demos while teaching/presenting.
+            🎯 'Pudl' <code>pudl</code> is a JavaScript-based static site generator for quick-prototyping of awesome little static demos while teaching/presenting.
         </td>
     </tr>
     <tr>
@@ -17,7 +17,7 @@
                 <img src='https://img.shields.io/badge/→-MAEDAH%20BATOOL-gray.svg?colorB=5734F5&style=flat-square' width='100' />
             </a>
         </td>
-    </tr>
+    </tr> 
 </table>
 
 ## 🐶 What Can `pudl` Do?
