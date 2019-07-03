@@ -4,17 +4,17 @@
 
 <table width='100%'>
     <tr>
-        <td align='left' width='100%' colspan='2'>
+        <td align='left' width='89%' colspan='3'>
             🎯  <code>pudl</code> is a JavaScript-based static site generator for quick-prototyping of awesome little static demos while teaching/presenting.
         </td>
     </tr>
     <tr>
         <td>
-            A FOSS (Free & Open Source Software) project. Maintained by <a href='https://github.com/maedahbatool'>@MaedahBatool</a>.
+            A F.O.S.S (Free & Open Source Software) project. Maintained by <a href='https://github.com/maedahbatool'>@MaedahBatool</a>.
         </td>
         <td align='center'>
             <a href='https://MaedahBatool.com/'>
-                <img src='https://img.shields.io/badge/→-MAEDAH%20BATOOL-gray.svg?colorB=5734F5&style=flat-square' width='100' />
+                <img src='https://img.shields.io/badge/→-MAEDAH%21BATOOL-gray.svg?colorB=5734F5&style=flat-square' width='90' />
             </a>
         </td>
     </tr>
