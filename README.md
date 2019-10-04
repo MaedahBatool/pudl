@@ -60,8 +60,8 @@ curl -L https://git.io/pudlgfl -o "gulpfile.js" && curl -L https://git.io/pudlpk
 ```
 
 ### ➡️ STEP #2: Editing the Project Variables
-
-Change the project variables in the `config.js` file according to your folder structure.
+<details>
+<summary>Change the project variables in the `config.js` file according to your folder structure.Read this. (CLICK TO EXPAND!)</summary>
 
 ```js
 // Project Variables.
@@ -77,7 +77,7 @@ module.exports = {
 	injectChanges: true
 };
 ```
-
+</details>
 ### ➡️ STEP #3: Installing Node Dependencies
 
 In the root folder install the Node Dependencies. In the terminal run following command and wait for it to download all the `node.js` dependencies. It's a one-time process and can take about 5 minutes depending on the speed of your internet connection.
