@@ -20,6 +20,8 @@
     </tr>
 </table>
 
+<p> Learn more about it!</p>
+
 ## 🐶 What Can `pudl` Do?
 
 1.  Live reloads browser with BrowserSync.
