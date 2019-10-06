@@ -35,7 +35,7 @@
 <details>
  <summary><strong> STEP #0</strong> — Don't have <code>Node.js</code> + <code>npm</code> installed? Read this. (CLICK TO EXPAND!)</summary>
 
-In case you are an absolute beginner to the world of `Node.js`, JavaScript, and `npm` packages — all you need to do is go to the Node's site [download + install](https://nodejs.org/en/download/) Node on your system. This will install both `Node.js` and `npm`, i.e., node package manager — the command line interface of Node.js.
+In case you are an absolute beginner to the world of `Node.js`, `JavaScript`, and `npm` packages — all you need to do is go to the Node's site [download + install](https://nodejs.org/en/download/) Node on your system. This will install both `Node.js` and `npm`, i.e., node package manager — the command line interface of Node.js.
 
 You can verify the install by opening your terminal app and typing...
 
@@ -128,7 +128,7 @@ If you'd like us to keep producing professional free and open source software (F
 
 ### 🙌 [THEDEVCOUPLE PARTNERS](https://TheDevCouple.com/partners)
 
-This open source project is maintained by the help of awesome businesses listed below. What? [Read more about it →](https://TheDevCouple.com/partners)
+This is an open source project is maintained by the help of awesome businesses listed below. What? [Read more about it →](https://TheDevCouple.com/partners)
 
 <table width='100%'>
 	<tr>
