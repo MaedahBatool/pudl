@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"author": "Maedah Batool (https://MaedahBatool.com/)",
 	"devDependencies": {
-		"browser-sync": "^2.26.5",
+		"browser-sync": "^2.26.7",
 		"gulp": "^3.9.1",
 		"gulp-notify": "^3.2.0",
 		"gulp-plumber": "^1.2.1",
