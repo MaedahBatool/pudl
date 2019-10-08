@@ -22,7 +22,7 @@
 
 ## 🐶 What Can `pudl` Do?
 
-1.  Live reloads browser with BrowserSync.
+1.  Live browser reloads with BrowserSync.
 2.  CSS: Sass to CSS conversion, error catching, Autoprefixing and CSS minification.
 3.  Watches files for changes in CSS.
 4.  Corrects the line endings.
