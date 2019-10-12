@@ -14,7 +14,7 @@
         </td>
         <td align='center'>
             <a href='https://MaedahBatool.com/'>
-                <img src='https://img.shields.io/badge/→-MAEDAH%20BATOOL-gray.svg?colorB=5734F5&style=flat-square' width='100' />
+                <img src='https://img.shields.io/badge/→-MAEDAHBATOOL-gray.svg?colorB=5734F5&style=flat-square' width='100' />
             </a>
         </td>
     </tr>
@@ -23,10 +23,7 @@
 ## 🐶 What Can `pudl` Do?
 
 1.  Live reloads browser with BrowserSync.
-2.  CSS: Sass to CSS conversion, error catching, Autoprefixing and CSS minification.
-3.  Watches files for changes in CSS.
-4.  Corrects the line endings.
-5.  InjectCSS instead of browser page reload
+2.  CSS: Sass to CSS co
 6.  Sends message notification to you.
 7.  Prevents pipe breaking caused by errors.
 
@@ -51,8 +48,7 @@ npm -v
 
 ### ➡️ Step #1. Download the Required Files
 
-Download [`gulpfile.js`](https://raw.githubusercontent.com/MaedahBatool/pudl/master/dist/gulpfile.js), [`package.json`](https://raw.githubusercontent.com/MaedahBatool/pudl/master/dist/package.json), [`.gitignore`](https://raw.githubusercontent.com/MaedahBatool/pudl/master/dist/.gitignore), and [`config.js`](https://raw.githubusercontent.com/MaedahBatool/pudl/master/dist/config.js) files inside the root folder of your project.
-
+Download [`gulpfile.js`](https://raw.githubusercontent.com/MaedahBatool/pudl/master/dist/gulpfile.js), [`package.json`](https://raw.githubusercontent.com/MaedahBatool/pudl/master/dist/package.json), [`.gitignore`](https://raw.githubusercontent.com/MaedahBatool/pudl/master/
 _**OR** use your terminal to browse your desired folder and run the following command which will download all the required files for you via cURL._
 
 ```sh
@@ -65,13 +61,7 @@ Change the project variables in the `config.js` file according to your folder st
 
 ```js
 // Project Variables.
-module.exports = {
-	viewSrc: './views/**/*.pug',
-	viewDst: './',
-	styleSrc: './css/style.scss',
-	styleDst: './',
-	outputStyle: 'compressed',
-	viewWatchFiles: './views/**/*.pug',
+module.exports = {',
 	styleWatchFiles: './css/**/*.scss',
 	browserAutoOpen: false,
 	injectChanges: true
@@ -85,23 +75,7 @@ In the root folder install the Node Dependencies. In the terminal run following 
 ```sh
 # For MAC OS X run the following command with super user.
 npm install
-
-# For Linux run the following command.
-npm install
-```
-
-### ➡️ STEP #4: Just run `npm start`
-
-Finally run the following command to get up and running with pudl.
-
-```sh
-# To start pudl
-npm start
-
-# To stop pudl press CTRL (⌃) + C
-```
-
-Now `gulp` will start watching your `pug` and `sass` files for any changes and provides you with a link through which you can access your site locally.
+y changes and provides you with a link through which you can access your site locally.
 
 ## License
 
@@ -111,17 +85,7 @@ Copyright [Maedah Batool](https://twitter.com/MaedahBatool)
 ---
 
 ### 🙃 **Hello, we're the [Dev Couple](https://WPCouple.com)**!
-
-[Ahmad Awais](https://twitter.com/mrahmadawais/) (my husband) is a OSS developer advocate, Full Stack Web Developer and a regular core contributor at WordPress. I ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Project Manager, and I'm also a WordPress Core Contributor. Together with our [team](https://WPCouple.com/team), we run the [WPCouple.com](https://WPCouple.com/).
-
-If you'd like to get insights into our love for open source software, professional full stack development, WordPress community, the growth of JavaScript or growing a family, building, and bootstrapping a business, then subscribe to our premium newsletter called ↣ [The WordPress Takeaway](https://WPTakeaway.club)!
-
-#### [**Support our Open Source Projects!**](https://pay.paddle.com/checkout/515568) 🎩
-
-If you'd like us to keep producing professional free and open source software (FOSS). Consider [paying for an hour of my dev-time](https://pay.paddle.com/checkout/515568). We'll spend two hours on open source for each contribution. Yeah, that's right, you pay for one hour and get both of us to spend an hour as a thank you.
-
--   🚀 $99.99 — [Support for one hour or more →](https://pay.paddle.com/checkout/515568)
--   🔰 $49.99 — [Support half an hour maintenance →](https://pay.paddle.com/checkout/527253)
+dle.com/checkout/527253)
 -   ☕️ $9.99 — [Buy us lunch or coffee to keep us trucking #OpenSource →](https://pay.paddle.com/checkout/527254)
 
 <br>
