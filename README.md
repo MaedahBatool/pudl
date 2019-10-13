@@ -10,11 +10,11 @@
     </tr>
     <tr>
         <td>
-            A FOSS (Free & Open Source Software) project. Maintained by <a href='https://github.com/maedahbatool'>@MaedahBatool</a>.
+            A FOSS (Free & Open Source Software) project. Maintained by <a href='https://github.com/SARANGRK'>@sarang</a>.
         </td>
         <td align='center'>
-            <a href='https://MaedahBatool.com/'>
-                <img src='https://img.shields.io/badge/→-MAEDAH%20BATOOL-gray.svg?colorB=5734F5&style=flat-square' width='100' />
+            <a href='https://sarangrk.cf/'>
+                <img src='https://img.shields.io/badge/→-SARANG%20RK-gray.svg?colorB=5734F5&style=flat-square' width='100' />
             </a>
         </td>
     </tr>
@@ -29,6 +29,7 @@
 5.  InjectCSS instead of browser page reload
 6.  Sends message notification to you.
 7.  Prevents pipe breaking caused by errors.
+7. just edit this 
 
 ## 🔥 Getting Started?
 
