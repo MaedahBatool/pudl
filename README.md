@@ -29,6 +29,7 @@
 5.  InjectCSS instead of browser page reload
 6.  Sends message notification to you.
 7.  Prevents pipe breaking caused by errors.
+7. just edit this 
 
 ## 🔥 Getting Started?
 
