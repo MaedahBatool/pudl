@@ -5,7 +5,7 @@
 <table width='100%'>
     <tr>
         <td align='left' width='100%' colspan='2'>
-            🎯  <code>pudl</code> is a JavaScript-based static site generator for quick-prototyping of awesome little static demos while teaching/presenting.
+            🎯  <code>pudl</code> is a <code>JavaScript<code>-based static site generator for quick-prototyping of awesome little static demos while teaching/presenting.
         </td>
     </tr>
     <tr>
@@ -142,4 +142,4 @@ This open source project is maintained by the help of awesome businesses listed 
 </table>
 <br>
 
-_Follow me 👋 on Twitter for more updates and questions_ →  [![Tweet to say Hi](https://img.shields.io/twitter/follow/maedahbatool.svg?style=social&label=Tweet%20@MaedahBatool)](https://twitter.com/maedahbatool/)
+_Follow me 👋 on Twitter for more Updates and Questions_ →  [![Tweet to say Hi](https://img.shields.io/twitter/follow/maedahbatool.svg?style=social&label=Tweet%20@MaedahBatool)](https://twitter.com/maedahbatool/)
