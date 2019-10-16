@@ -1,4 +1,4 @@
-![pudl](https://on.ahmda.ws/1a2d181b2j1P/c)
+﻿![pudl](https://on.ahmda.ws/1a2d181b2j1P/c)
 
 [![npm](https://img.shields.io/npm/v/gulp-poodle.svg?style=flat-square)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/npm/dt/gulp-poodle.svg?style=flat-square&label=downloads)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/badge/pug-html-gray.svg?colorA=A86454&style=flat-square)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/badge/sass-css-gray.svg?colorA=C6538B&style=flat-square)](https://www.npmjs.com/package/gulp-poodle)
 
@@ -14,7 +14,7 @@
         </td>
         <td align='center'>
             <a href='https://MaedahBatool.com/'>
-                <img src='https://img.shields.io/badge/→-MAEDAH%20BATOOL-gray.svg?colorB=5734F5&style=flat-square' width='100' />
+                <img src='https://img.shields.io/badge/→-MAEDAH%20BATOOL-gray.svg?colorA=5734F5&style=flat-square' width='100' />
             </a>
         </td>
     </tr>
