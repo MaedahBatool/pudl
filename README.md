@@ -1,16 +1,16 @@
 ![pudl](https://on.ahmda.ws/1a2d181b2j1P/c)
 
-[![npm](https://img.shields.io/npm/v/gulp-poodle.svg?style=flat-square)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/npm/dt/gulp-poodle.svg?style=flat-square&label=downloads)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/bad-gray.svg?colorD=C6538B&style=flat-square)](https://www.npmjs.com/package/gulp-poodle)
+[![npm](https://img.shields.io/npm/v/gulp-poodle.svg?style=flat-square)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/npm/dt/gulp-poodle.svg?style=flat-square&label=downloads)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/bad-gray.svg?colorA=C6538B&style=flat-square)](https://www.npmjs.com/package/gulp-poodle)
 
-<table width='500%'>
+<table width='250%'>
     <tr>
-        <td align='left' width='100%' colspan='5' rowspan='7'>
+        <td align='CENTER' width='100%' colspan='5' rowspan='7'>
             🎯<  <code>pudl</code> is a <code>JavaScript-based</code>  for quick-prototyping of awesome little static demos while teaching/presenting.
 
 
         </td>
     </tr><code>
-    <tr>
+    <tr><tr>
         <td>
            <code> A FOSS</code> (Free & Open Source Software) project. <a href='https://github.com/maedahbatool'>@MaedahBatool</a>.
         </td></code>
@@ -20,7 +20,7 @@
                 <img src='https://img.shields.io/badge/MAEDAHBATOOL-gray.svg?colorA=5734F5&style=flat-square' width='150' />
             </a>
         </td>
-    </tr>
+    </tr></tr>
 </table>
 <table>
 </table>
