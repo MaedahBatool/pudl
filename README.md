@@ -4,7 +4,7 @@
 
 <table width='250%'>
     <tr>
-        <td align='CENTER' width='100%' colspan='5' rowspan='7'>
+        <td align='CENTER' width='500%' colspan='4' rowspan='8'>
             🎯<  <code>pudl</code> is a <code>JavaScript-based</code>  for quick-prototyping of awesome little static demos while teaching/presenting.
 
 
