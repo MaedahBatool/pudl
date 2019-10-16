@@ -14,7 +14,7 @@
         <td>
            <code> A FOSS</code> (Free & Open Source Software) project. <a href='https://github.com/maedahbatool'>@MaedahBatool</a>.
         </td>
-        <td align='Right'>
+        <td align='Left'>
             <a href='https://MaedahBatool.com/'>
                 <img src='https://img.shields.io/badge/MAEDAHBATOOL-gray.svg?colorA=5734F5&style=flat-square' width='150' />
             </a>
