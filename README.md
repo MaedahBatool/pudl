@@ -1,23 +1,27 @@
 ![pudl](https://on.ahmda.ws/1a2d181b2j1P/c)
 
-[![npm](https://img.shields.io/npm/v/gulp-poodle.svg?style=flat-square)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/npm/dt/gulp-poodle.svg?style=flat-square&label=downloads)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/badge/pug-html-gray.svg?colorA=A86454&style=flat-square)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/badge/sass-css-gray.svg?colorA=C6538B&style=flat-square)](https://www.npmjs.com/package/gulp-poodle)
+[![npm](https://img.shields.io/npm/v/gulp-poodle.svg?style=flat-square)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/npm/dt/gulp-poodle.svg?style=flat-square&label=downloads)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/badge/pug-html-gray.svg?colorC=A86454&style=flat-square)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/badge/sass-css-gray.svg?colorC=C6538B&style=flat-square)](https://www.npmjs.com/package/gulp-poodle)
 
-<table width='100%'>
+<table width='500%'>
     <tr>
         <td align='left' width='100%' colspan='2'>
-            🎯  <code>pudl</code> is a JavaScript-based static site generator for quick-prototyping of awesome little static demos while teaching/presenting.
+            🎯<  <code>pudl</code> is a <code>JavaScript-based</code>  for quick-prototyping of awesome little static demos while teaching/presenting.
+
+
         </td>
     </tr>
     <tr>
         <td>
-            A FOSS (Free & Open Source Software) project. Maintained by <a href='https://github.com/maedahbatool'>@MaedahBatool</a>.
+           <code> A FOSS</code> (Free & Open Source Software) project. <a href='https://github.com/maedahbatool'>@MaedahBatool</a>.
         </td>
-        <td align='center'>
+        <td align='Right'>
             <a href='https://MaedahBatool.com/'>
-                <img src='https://img.shields.io/badge/→-MAEDAH%20BATOOL-gray.svg?colorB=5734F5&style=flat-square' width='100' />
+                <img src='https://img.shields.io/badge/MAEDAHBATOOL-gray.svg?colorA=5734F5&style=flat-square' width='150' />
             </a>
         </td>
     </tr>
+</table>
+<table>
 </table>
 
 ## 🐶 What Can `pudl` Do?
@@ -37,7 +41,7 @@
 
 In case you are an absolute beginner to the world of `Node.js`, JavaScript, and `npm` packages — all you need to do is go to the Node's site [download + install](https://nodejs.org/en/download/) Node on your system. This will install both `Node.js` and `npm`, i.e., node package manager — the command line interface of Node.js.
 
-You can verify the install by opening your terminal app and typing...
+You c
 
 ```sh
 node -v
