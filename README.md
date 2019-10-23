@@ -26,7 +26,7 @@
 2.  CSS: Sass to CSS conversion, error catching, Autoprefixing and CSS minification.
 3.  Watches files for changes in CSS.
 4.  Corrects the line endings.
-5.  InjectCSS instead of browser page reload
+5.  InjectCSS instead of browser page reload.
 6.  Sends message notification to you.
 7.  Prevents pipe breaking caused by errors.
 
@@ -103,7 +103,7 @@ npm start
 
 Now `gulp` will start watching your `pug` and `sass` files for any changes and provides you with a link through which you can access your site locally.
 
-## License
+## License 
 
 Released under GNU GPLv2.0 or later license.
 Copyright [Maedah Batool](https://twitter.com/MaedahBatool)
