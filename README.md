@@ -30,7 +30,7 @@
 6.  Sends message notification to you.
 7.  Prevents pipe breaking caused by errors.
 
-## 🔥 Getting Started?
+## 🔥 Getting Started with pudl?
 
 <details>
  <summary><strong> STEP #0</strong> — Don't have <code>Node.js</code> + <code>npm</code> installed? Read this. (CLICK TO EXPAND!)</summary>
