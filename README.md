@@ -1,4 +1,4 @@
-![pudl](https://on.ahmda.ws/1a2d181b2j1P/c)
+![pudl](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thoughtco.com%2Fwhat-is-javascript-2037921&psig=AOvVaw2y7Ttqp6mUrP95VbotgwPp&ust=1602864688710000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC1_8r-tuwCFQAAAAAdAAAAABAD)
 
 [![npm](https://img.shields.io/npm/v/gulp-poodle.svg?style=flat-square)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/npm/dt/gulp-poodle.svg?style=flat-square&label=downloads)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/badge/pug-html-gray.svg?colorA=A86454&style=flat-square)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/badge/sass-css-gray.svg?colorA=C6538B&style=flat-square)](https://www.npmjs.com/package/gulp-poodle)
 
@@ -33,7 +33,7 @@
 ## 🔥 Getting Started?
 
 <details>
- <summary><strong> STEP #0</strong> — Don't have <code>Node.js</code> + <code>npm</code> installed? Read this. (CLICK TO EXPAND!)</summary>
+ <summary><strong> STEP #0</strong> — Don't have <code>Node.js</code> + <code>npm</code> installed? <details>Read this. (CLICK TO EXPAND!)</details></summary>
 
 In case you are an absolute beginner to the world of `Node.js`, JavaScript, and `npm` packages — all you need to do is go to the Node's site [download + install](https://nodejs.org/en/download/) Node on your system. This will install both `Node.js` and `npm`, i.e., node package manager — the command line interface of Node.js.
 
