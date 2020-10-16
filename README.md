@@ -80,7 +80,7 @@ module.exports = {
 
 ### ➡️ STEP #3: Installing the Node Dependencies
 
-In the root folder install the Node Dependencies. In the terminal run the following command and wait for it to download all the `node.js` dependencies. It's a one-time process and can take about 5 minutes depending on the speed of your internet connection.
+In the root folder install the Node Dependencies. In the terminal run the following command and wait for it to download all the `node.js` dependencies. It's a one-time process and can take about 5 minutes or more depending on the speed of your internet connection.
 
 ```sh
 # For MAC OS X run the following command with super user.
