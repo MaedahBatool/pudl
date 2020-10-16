@@ -53,7 +53,7 @@ npm -v
 
 Download the [`gulpfile.js`](https://raw.githubusercontent.com/MaedahBatool/pudl/master/dist/gulpfile.js), [`package.json`](https://raw.githubusercontent.com/MaedahBatool/pudl/master/dist/package.json), [`.gitignore`](https://raw.githubusercontent.com/MaedahBatool/pudl/master/dist/.gitignore), and [`config.js`](https://raw.githubusercontent.com/MaedahBatool/pudl/master/dist/config.js) files inside the root folder of your project.
 
-_**OR** use your terminal to browse your desired folder and run the following command which will download all the required files for you via cURL._
+_**OR** use your terminal to browse your desired folder and run the following command that downloads all the required files for you via cURL._
 
 ```sh
 curl -L https://git.io/pudlgfl -o "gulpfile.js" && curl -L https://git.io/pudlpkjs -o "package.json" && curl -L https://git.io/pudlgig -o ".gitignore" && curl -L https://git.io/pudlcg -o "config.js"
