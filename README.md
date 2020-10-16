@@ -20,11 +20,11 @@
     </tr>
 </table>
 
-## 🐶 What Can `pudl` Do?
+## 🐶 What Can `pull` Do?
 
-1.  Live reloads browser with BrowserSync.
-2.  CSS: Sass to CSS conversion, error catching, Autoprefixing and CSS minification.
-3.  Watches files for changes in CSS.
+1. Live reloads browser with BrowserSync.
+2.  CSS: Sass to CSS conversion, error catching, Autoprefixing, and CSS minification.
+3.  Watches files for CSS changes.
 4.  Corrects the line endings.
 5.  InjectCSS instead of browser page reload.
 6.  Sends message notification to you.
@@ -83,7 +83,7 @@ module.exports = {
 In the root folder install the Node Dependencies. In the terminal run the following command and wait for it to download all the `node.js` dependencies. It's a one-time process and can take about 5 minutes or more depending on the speed of your internet connection.
 
 ```sh
-# For MAC OS X run the following command with super user.
+# For MAC OS X run the following command with the superuser.
 npm install
 
 # For Linux run the following command.
@@ -101,7 +101,7 @@ npm start
 # To stop pudl press CTRL (⌃) + C
 ```
 
-Now `gulp` will start watching your `pug` and `sass` files for any changes and provides you with a link through which you can access your site locally. The localhost link can be accessed by `http://localhost:3000/`.
+Now, `gulp` will start watching your `pug` and `sass` files for any changes and provides you with a link through which you can access your site locally. The localhost link can be accessed by `http://localhost:3000/`.
 
 ## License
 
@@ -112,13 +112,13 @@ Copyright [Maedah Batool](https://twitter.com/MaedahBatool)
 
 ### 🙃 **Hello, we're the [Dev Couple](https://TheDevCouple.com)**!
 
-[Ahmad Awais](https://twitter.com/mrahmadawais/) (my husband) is an OSS developer advocate, Full Stack Web Developer and a regular core contributor at WordPress. I ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Content Program Manager, and I'm also a WordPress Core Contributor. Together with our [team](https://TheDevCouple.com/team), we run the [TheDevCouple.com](https://TheDevCouple.com/).
+[Ahmad Awais](https://twitter.com/mrahmadawais/) (my husband) is an OSS developer advocate, Full Stack Web Developer, and a regular core contributor at WordPress. I ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Content Program Manager, and I'm also a WordPress Core Contributor. Together with our [team](https://TheDevCouple.com/team), we run the [TheDevCouple.com](https://TheDevCouple.com/).
 
-If you'd like to get insights into our love for open source software, professional full stack development, WordPress community, the growth of JavaScript or growing a family, building, and bootstrapping a business, then subscribe to our newsletter called ↣ [The Developers Takeaway](http://thedevtakeaway.ahmadawais.com/)!
+If you'd like to get insights into our love for open source software, professional full-stack development, WordPress community, the growth of JavaScript or growing a family, building, and bootstrapping a business, then subscribe to our newsletter called ↣ [The Developers Takeaway](http://thedevtakeaway.ahmadawais.com/)!
 
 #### [**Support our Open Source Projects!**](https://pay.paddle.com/checkout/515568) 🎩
 
-If you'd like us to keep producing professional free and open source software (FOSS). Consider [paying for an hour of my dev-time](https://pay.paddle.com/checkout/515568). We'll spend two hours on open source for each contribution. Yeah, that's right, you pay for one hour and get both of us to spend an hour as a thank you.
+If you'd like us to keep producing professional free and open-source software (FOSS). Consider [paying for an hour of my dev-time](https://pay.paddle.com/checkout/515568). We'll spend two hours on open source for each contribution. Yeah, that's right, you pay for one hour and get both of us to spend an hour as a thank you.
 
 -   🚀 $99.99 — [Support for one hour or more →](https://pay.paddle.com/checkout/515568)
 -   🔰 $49.99 — [Support half an hour maintenance →](https://pay.paddle.com/checkout/527253)
@@ -128,7 +128,7 @@ If you'd like us to keep producing professional free and open source software (F
 
 ### 🙌 [THEDEVCOUPLE PARTNERS](https://TheDevCouple.com/partners)
 
-This open source project is maintained by the help of awesome businesses listed below. What? [Read more about it →](https://TheDevCouple.com/partners)
+This open-source project is maintained with the help of awesome businesses listed below. What? [Read more about it →](https://TheDevCouple.com/partners)
 
 <table width='100%'>
 	<tr>
