@@ -26,7 +26,7 @@
 2.  CSS: Sass to CSS conversion, error catching, Autoprefixing and CSS minification.
 3.  Watches files for changes in CSS.
 4.  Corrects the line endings.
-5.  InjectCSS instead of browser page reload
+5.  InjectCSS instead of browser page reload.
 6.  Sends message notification to you.
 7.  Prevents pipe breaking caused by errors.
 
