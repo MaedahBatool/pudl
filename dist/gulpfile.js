@@ -100,7 +100,7 @@ gulp.task('bSync', function() {
 /**
  * Default Task.
  *
- * Watch for file changes and run specific tasks.
+ * Watch for file changes and run specific task.
  */
 gulp.task('default', ['view', 'style', 'bSync'], function() {
 	gulp.watch(config.viewWatchFiles, ['view', reload]);
