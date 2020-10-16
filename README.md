@@ -61,7 +61,7 @@ curl -L https://git.io/pudlgfl -o "gulpfile.js" && curl -L https://git.io/pudlpk
 
 ### ➡️ STEP #2: Editing the Project Variables
 
-Change the project variables in the `config.js` file according to your folder structure.
+Next, change the project variables in the `config.js` file according to your folder structure.
 
 ```js
 // Project Variables.
