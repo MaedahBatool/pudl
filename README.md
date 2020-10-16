@@ -112,7 +112,7 @@ Copyright [Maedah Batool](https://twitter.com/MaedahBatool)
 
 ### 🙃 **Hello, we're the [Dev Couple](https://TheDevCouple.com)**!
 
-[Ahmad Awais](https://twitter.com/mrahmadawais/) (my husband) is an OSS developer advocate, Full Stack Web Developer and a regular core contributor at WordPress. I ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Content Program Manager, and I'm also a WordPress Core Contributor. Together with our [team](https://WPCouple.com/team), we run the [WPCouple.com](https://WPCouple.com/).
+[Ahmad Awais](https://twitter.com/mrahmadawais/) (my husband) is an OSS developer advocate, Full Stack Web Developer and a regular core contributor at WordPress. I ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Content Program Manager, and I'm also a WordPress Core Contributor. Together with our [team](https://TheDevCouple.com/team), we run the [TheDevCouple.com](https://TheDevCouple.com/).
 
 If you'd like to get insights into our love for open source software, professional full stack development, WordPress community, the growth of JavaScript or growing a family, building, and bootstrapping a business, then subscribe to our premium newsletter called ↣ [The WordPress Takeaway](https://WPTakeaway.club)!
 
