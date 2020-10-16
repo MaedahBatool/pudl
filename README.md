@@ -92,7 +92,7 @@ npm install
 
 ### ➡️ STEP #4: Just run `npm start`
 
-Finally run the following command to get up and running with pudl.
+Finally, run the following command to get up and running with pudl.
 
 ```sh
 # To start pudl
@@ -101,7 +101,7 @@ npm start
 # To stop pudl press CTRL (⌃) + C
 ```
 
-Now `gulp` will start watching your `pug` and `sass` files for any changes and provides you with a link through which you can access your site locally.
+Now `gulp` will start watching your `pug` and `sass` files for any changes and provides you with a link through which you can access your site locally. The localhost link can be accessed by `http://localhost:3000/`.
 
 ## License
 
