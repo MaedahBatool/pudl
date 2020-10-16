@@ -110,7 +110,7 @@ Copyright [Maedah Batool](https://twitter.com/MaedahBatool)
 
 ---
 
-### 🙃 **Hello, we're the [Dev Couple](https://WPCouple.com)**!
+### 🙃 **Hello, we're the [Dev Couple](https://TheDevCouple.com)**!
 
 [Ahmad Awais](https://twitter.com/mrahmadawais/) (my husband) is a OSS developer advocate, Full Stack Web Developer and a regular core contributor at WordPress. I ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Project Manager, and I'm also a WordPress Core Contributor. Together with our [team](https://WPCouple.com/team), we run the [WPCouple.com](https://WPCouple.com/).
 
