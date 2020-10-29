@@ -8,13 +8,13 @@
 
 // Project options.
 module.exports = {
-	viewSrc: './views/**/*.pug',
-	viewDst: './',
-	styleSrc: './css/style.scss',
-	styleDst: './',
+	viewSrc: './dist/views/**/*.pug',
+	viewDst: './public/',
+	styleSrc: './dist/sass/style.scss',
+	styleDst: './public/assets/css/',
 	outputStyle: 'compressed',
-	viewWatchFiles: './views/**/*.pug',
-	styleWatchFiles: './css/**/*.scss',
+	viewWatchFiles: './dist/views/**/*.pug',
+	styleWatchFiles: './dist/sass/**/*.scss',
 	browserAutoOpen: false,
 	injectChanges: true
 };
