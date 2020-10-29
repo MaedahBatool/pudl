@@ -128,7 +128,7 @@ If you'd like us to keep producing professional free and open source software (F
 
 ### 🙌 [THEDEVCOUPLE PARTNERS](https://TheDevCouple.com/partners)
 
-This open source project is maintained by the help of awesome businesses listed below. What? [Read more about it →](https://TheDevCouple.com/partners)
+This open source project is maintained and supported by the help of awesome businesses listed below. What? [Read more about it →](https://TheDevCouple.com/partners)
 
 <table width='100%'>
 	<tr>
