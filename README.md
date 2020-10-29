@@ -59,7 +59,7 @@ _**OR** use your terminal to browse your desired folder and run the following co
 curl -L https://git.io/pudlgfl -o "gulpfile.js" && curl -L https://git.io/pudlpkjs -o "package.json" && curl -L https://git.io/pudlgig -o ".gitignore" && curl -L https://git.io/pudlcg -o "config.js"
 ```
 
-### ➡️ STEP #2: Editing the Project Variables
+### ➡️ STEP #2: Editing and the Project Variables
 
 Next, change the project variables in the `config.js` file according to your folder structure.
 
