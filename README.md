@@ -6,6 +6,7 @@
     <tr>
         <td align='left' width='100%' colspan='2'>
             🎯 'pudl' is a JavaScript-based static site generator (SSG) for quick-prototyping for creating awesome little static demos while teaching/presenting. It significantly cuts down your dev-setup time and improves productivity.
+            🎯  <code>pudl</code> is a JavaScript-based static site generator (SSG) for quick-prototyping for creating awesome little static demos while teaching/presenting. It significantly cuts down your dev-setup time and improves productivity. It also gives a nice developer experience.
         </td>
     </tr>
     <tr>
