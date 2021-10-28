@@ -1,6 +1,6 @@
 ![pudl](https://maedahbatool.com/wp-content/uploads/2018/09/pudl-image.jpg)
 
-[![npm](https://img.shields.io/npm/v/gulp-poodle.svg?style=flat-square&color=321A92&labelColor=7E57C3)](https://www.npmjs.com/package/gulp-poodle) [![npm downloads](https://img.shields.io/npm/dt/gulp-poodle.svg?style=flat-square&label=downloads&color=321A92&labelColor=7E57C3)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/badge/pug-html-gray.svg?colorA=A86454&style=flat-square&color=321A92&labelColor=7E57C3)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/badge/sass-css-gray.svg?colorA=C6538B&style=flat-square)](https://www.npmjs.com/package/gulp-poodle)
+[![npm](https://img.shields.io/npm/v/gulp-poodle.svg?style=flat-square&color=321A92&labelColor=7E57C3)](https://www.npmjs.com/package/gulp-poodle) [![npm downloads](https://img.shields.io/npm/dt/gulp-poodle.svg?style=flat-square&label=downloads&color=321A92&labelColor=7E57C3)](https://www.npmjs.com/package/gulp-poodle) [![HTML](https://img.shields.io/badge/pug-html-gray.svg?colorA=A86454&style=flat-square&color=321A92&labelColor=7E57C3)](https://www.npmjs.com/package/gulp-poodle) [![npm](https://img.shields.io/badge/sass-css-gray.svg?colorA=C6538B&style=flat-square)](https://www.npmjs.com/package/gulp-poodle)
 
 <table width='100%'>
     <tr>
