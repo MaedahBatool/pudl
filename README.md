@@ -105,8 +105,7 @@ Now `gulp` will start watching your `pug` and `sass` files for any changes and p
 
 ## License
 
-Released under GNU GPLv2.0 or later license.
-Copyright [Maedah Batool](https://twitter.com/MaedahBatool)
+MIT © [Maedah Batool](https://twitter.com/MaedahBatool).
 
 ---
 
