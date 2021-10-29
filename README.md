@@ -103,7 +103,7 @@ npm start
 
 Now `gulp` will start watching your `pug` and `sass` files for any changes and provides you with a link through which you can access your site locally. The localhost link can be accessed by `http://localhost:3000/`.
 
-## License
+## License 
 
 Released under GNU GPLv2.0 or later license.
 Copyright [Maedah Batool](https://twitter.com/MaedahBatool)
