@@ -93,7 +93,9 @@ gulp.task('bSync', function() {
 		injectChanges: config.injectChanges,
 
 		// Serve files from the current directory.
-		server: true
+		server: {
+			baseDir: "./public/"
+    }
 	});
 });
 
