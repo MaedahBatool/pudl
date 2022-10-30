@@ -4,12 +4,6 @@ All notable changes in this project's [released versions](https://github.com/Mae
 
 [![Maedah on Twitter](https://img.shields.io/twitter/follow/maedahbatool.svg?style=social&label=Follow%20@maedahbatool)](https://twitter.com/maedahbatool/)
 
-<br>
-
-![hr](https://on.ahmda.ws/t6N5/c)
-
-<br>
-
 ### RELEASE: [0.4.0](https://github.com/MaedahBatool/pudl/compare/0.3.0...0.4.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
