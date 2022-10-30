@@ -57,6 +57,6 @@ All notable changes in this project's [released versions](https://github.com/Mae
 
 ![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
-> 📖 shields [`0a16d94`](https://github.com/MaedahBatool/pudl/commit/0a16d94bacb6da3e7e7ab4f85b74008b9fb8ca83) <br>
+> 📖 Add shields [`0a16d94`](https://github.com/MaedahBatool/pudl/commit/0a16d94bacb6da3e7e7ab4f85b74008b9fb8ca83) <br>
 
 <br>
