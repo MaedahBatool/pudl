@@ -17,7 +17,7 @@ All notable changes in this project's [released versions](https://github.com/Mae
 
 ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
-> 🐛 Docs Downloadable Links [`905594c`](https://github.com/MaedahBatool/pudl/commit/905594c41cb34c7ca65dcaca9966bdef055b7591) <br>
+> 🐛 Docs downloadable links [`905594c`](https://github.com/MaedahBatool/pudl/commit/905594c41cb34c7ca65dcaca9966bdef055b7591) <br>
 
 ### RELEASE: [0.3.0](https://github.com/MaedahBatool/pudl/compare/0.2.0...0.3.0)
 
