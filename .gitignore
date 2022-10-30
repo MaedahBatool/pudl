@@ -1,6 +1,6 @@
 # NPM #
 ##########
-# Ignore all directories called node_modules in current folder and any subfolders.
+# Ignore all these directories called node_modules in current folder and any of the subfolders.
 node_modules/
 /node_modules/
 
