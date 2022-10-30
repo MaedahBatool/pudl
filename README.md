@@ -37,7 +37,7 @@
 
 In case you are an absolute beginner to `Node.js`, JavaScript, and `npm` packages — all you need to do is go to the Node's site [download + install](https://nodejs.org/en/download/) Node on your system. This will install both `Node.js` and `npm`, i.e., node package manager — the command line interface of Node.js.
 
-You can verify a successful installation by opening your terminal app and typing...
+You can verify a successful installation by opening your terminal app and then start typing...
 
 ```sh
 node -v
