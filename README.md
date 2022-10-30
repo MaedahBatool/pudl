@@ -78,7 +78,7 @@ module.exports = {
 };
 ```
 
-### ➡️ STEP #3: Installing the Node Dependencies
+### ➡️ STEP #3: Installing the node Dependencies
 
 In the root folder of your development project install the Node Dependencies. In the terminal run the following command and wait for it to download all the `node.js` dependencies. It's a one-time process and can take about 5 minutes or more depending on the speed of your internet connection.
 
