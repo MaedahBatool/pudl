@@ -64,7 +64,7 @@ curl -L https://git.io/pudlgfl -o "gulpfile.js" && curl -L https://git.io/pudlpk
 Next, change the project variables in the `config.js` file according to your folder structure.
 
 ```js
-// Project Variables.
+// List of Project Variables.
 module.exports = {
 	viewSrc: './views/**/*.pug',
 	viewDst: './',
