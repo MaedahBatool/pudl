@@ -10,7 +10,7 @@
     </tr>
     <tr>
         <td>
-            A FOSS (Free & Open Source Software) project. Maintained by <a href='https://github.com/maedahbatool'>@MaedahBatool</a>.
+            A FOSS (Free & Open Source Software) project. Developed Maintained by <a href='https://github.com/maedahbatool'>@MaedahBatool</a>.
         </td>
         <td align='center'>
             <a href='https://MaedahBatool.com/'>
