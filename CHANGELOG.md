@@ -8,7 +8,7 @@ All notable changes in this project's [released versions](https://github.com/Mae
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
-> 👌 Docs and Featured Image [`e6d5227`](https://github.com/MaedahBatool/pudl/commit/e6d5227e0e5ac71c8e9d1cf03a89a1e41803c6eb) <br>
+> 👌 Docs and featured image [`e6d5227`](https://github.com/MaedahBatool/pudl/commit/e6d5227e0e5ac71c8e9d1cf03a89a1e41803c6eb) <br>
 > 👌 release must be a poodle [`00af287`](https://github.com/MaedahBatool/pudl/commit/00af2876cb114293006f38f0a1e08c57a968bedc) <br>
 > 👌 No commands [`e2be33c`](https://github.com/MaedahBatool/pudl/commit/e2be33c8e0ffa807d040fb955096cb9d6fe11bfc) <br>
 > 👌 Improve cURL Commands [`27a3e5b`](https://github.com/MaedahBatool/pudl/commit/27a3e5b2dedd6774e04975ff54583899e5c895b8) <br>
