@@ -13,7 +13,7 @@ All notable changes in this project's [released versions](https://github.com/Mae
 > 👌 No commands [`e2be33c`](https://github.com/MaedahBatool/pudl/commit/e2be33c8e0ffa807d040fb955096cb9d6fe11bfc) <br>
 > 👌 Improve cURL Commands [`27a3e5b`](https://github.com/MaedahBatool/pudl/commit/27a3e5b2dedd6774e04975ff54583899e5c895b8) <br>
 > 👌 Docs [`eee43d9`](https://github.com/MaedahBatool/pudl/commit/eee43d9d6e90d1fd354042d76777530707026829) <br>
-> 👌 release must be a poodle [`7f176bc`](https://github.com/MaedahBatool/pudl/commit/7f176bcb29a40f50e3d331e0307635e7d50bc790) <br>
+> 👌 Release must be a poodle [`7f176bc`](https://github.com/MaedahBatool/pudl/commit/7f176bcb29a40f50e3d331e0307635e7d50bc790) <br>
 
 ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
