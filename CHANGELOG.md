@@ -46,14 +46,14 @@ All notable changes in this project's [released versions](https://github.com/Mae
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
 > 📦 Add releaseit [`2700300`](https://github.com/MaedahBatool/pudl/commit/2700300f7270f65742a2a005144c800a6420c38d) <br>
-> 📦 Add Keywords [`c62c9f9`](https://github.com/MaedahBatool/pudl/commit/c62c9f90dfccfcf92d3016f9aaa2c5f9e1de2294) <br>
+> 📦 Add keywords [`c62c9f9`](https://github.com/MaedahBatool/pudl/commit/c62c9f90dfccfcf92d3016f9aaa2c5f9e1de2294) <br>
 > 📦 Add Author [`7c4bd86`](https://github.com/MaedahBatool/pudl/commit/7c4bd869384de437f27f79dace85ba4548791e70) <br>
 > 📦 First draft [`ef78a77`](https://github.com/MaedahBatool/pudl/commit/ef78a77bdc94ba0ed4b694bee566b456aad9385e) <br>
 > 📦 First Commit [`8c8e9ac`](https://github.com/MaedahBatool/pudl/commit/8c8e9acc1cdf1720836adf407e72969562622954) <br>
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
-> 👌 Default Task [`f580b06`](https://github.com/MaedahBatool/pudl/commit/f580b06545fb84a105d9ce1db4e343237c680495) <br>
+> 👌 Default task [`f580b06`](https://github.com/MaedahBatool/pudl/commit/f580b06545fb84a105d9ce1db4e343237c680495) <br>
 
 ![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
