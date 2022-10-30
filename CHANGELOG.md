@@ -1,6 +1,6 @@
 # Changelog: `pudl`
 
-All notable changes in this project's [released versions](https://github.com/MaedahBatool/pudl/releases) are documented in this file.
+This document list all the notable changes in this project's [released versions](https://github.com/MaedahBatool/pudl/releases) are documented in this file.
 
 [![Maedah on Twitter](https://img.shields.io/twitter/follow/maedahbatool.svg?style=social&label=Follow%20@maedahbatool)](https://twitter.com/maedahbatool/)
 
