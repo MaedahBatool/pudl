@@ -44,7 +44,7 @@ node -v
 # Results into v9.11.2 — please make sure you have Node >= 8 installed.
 
 npm -v
-# Results into v6.2.0 — make sure you have npm >= 5.3 installed.
+# Results into v6.2.0 — please make sure you have npm >= 5.3 installed.
 ```
 
 </details>
