@@ -41,12 +41,6 @@ All notable changes in this project's [released versions](https://github.com/Mae
 
 > 🐛 Typo [`f9608e9`](https://github.com/MaedahBatool/pudl/commit/f9608e9dde9010d0bb4f6221f68dacb6923a157a) <br>
 
-<br>
-
-![hr](https://on.ahmda.ws/t6N5/c)
-
-<br>
-
 ### RELEASE: 0.2.0
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
