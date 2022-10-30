@@ -13,7 +13,7 @@
             A FOSS (Free & Open Source Software) automation workflow project. Developed and Maintained by <a href='https://github.com/maedahbatool'>@MaedahBatool</a>.
         </td>
         <td align='center'>
-            <a href='https://MaedahBatool.com/'>
+            <a href='https://MaedahBatool.com'>
                 <img src='https://img.shields.io/badge/→-MAEDAH%20BATOOL-gray.svg?colorB=5734F5&style=flat-square' width='100' />
             </a>
         </td>
