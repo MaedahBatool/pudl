@@ -9,7 +9,7 @@ All notable changes in this project's [released versions](https://github.com/Mae
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
 > 👌 Docs and featured image [`e6d5227`](https://github.com/MaedahBatool/pudl/commit/e6d5227e0e5ac71c8e9d1cf03a89a1e41803c6eb) <br>
-> 👌 release must be a poodle [`00af287`](https://github.com/MaedahBatool/pudl/commit/00af2876cb114293006f38f0a1e08c57a968bedc) <br>
+> 👌 Release must be a poodle [`00af287`](https://github.com/MaedahBatool/pudl/commit/00af2876cb114293006f38f0a1e08c57a968bedc) <br>
 > 👌 No commands [`e2be33c`](https://github.com/MaedahBatool/pudl/commit/e2be33c8e0ffa807d040fb955096cb9d6fe11bfc) <br>
 > 👌 Improve cURL commands [`27a3e5b`](https://github.com/MaedahBatool/pudl/commit/27a3e5b2dedd6774e04975ff54583899e5c895b8) <br>
 > 👌 Docs [`eee43d9`](https://github.com/MaedahBatool/pudl/commit/eee43d9d6e90d1fd354042d76777530707026829) <br>
@@ -33,7 +33,7 @@ All notable changes in this project's [released versions](https://github.com/Mae
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
-> 👌 pudl architechture [`6b2e70c`](https://github.com/MaedahBatool/pudl/commit/6b2e70ca4da900df28cb3a61adb0309de720501c) <br>
+> 👌 pudl architechture changes [`6b2e70c`](https://github.com/MaedahBatool/pudl/commit/6b2e70ca4da900df28cb3a61adb0309de720501c) <br>
 > 👌 Keywords/Desc [`9778419`](https://github.com/MaedahBatool/pudl/commit/9778419a7f839c92e129c2a94f6e7c9f8fd93c48) <br>
 > 👌 Defaults [`82c0ab8`](https://github.com/MaedahBatool/pudl/commit/82c0ab83420810892627460ac19731273161608c) <br>
 
