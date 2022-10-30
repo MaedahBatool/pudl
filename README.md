@@ -20,7 +20,7 @@
     </tr>
 </table>
 
-## 🐶 What can `pudl` Do?
+## 🐶 What can `pudl` do?
 
 1.  Live reloads browser with BrowserSync.
 2.  CSS: Sass to CSS conversion, error catching, Autoprefixing and CSS minification.
