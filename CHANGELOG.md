@@ -45,7 +45,7 @@ All notable changes in this project's [released versions](https://github.com/Mae
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
-> 📦 releaseit [`2700300`](https://github.com/MaedahBatool/pudl/commit/2700300f7270f65742a2a005144c800a6420c38d) <br>
+> 📦 Add releaseit [`2700300`](https://github.com/MaedahBatool/pudl/commit/2700300f7270f65742a2a005144c800a6420c38d) <br>
 > 📦 Add Keywords [`c62c9f9`](https://github.com/MaedahBatool/pudl/commit/c62c9f90dfccfcf92d3016f9aaa2c5f9e1de2294) <br>
 > 📦 Add Author [`7c4bd86`](https://github.com/MaedahBatool/pudl/commit/7c4bd869384de437f27f79dace85ba4548791e70) <br>
 > 📦 First draft [`ef78a77`](https://github.com/MaedahBatool/pudl/commit/ef78a77bdc94ba0ed4b694bee566b456aad9385e) <br>
