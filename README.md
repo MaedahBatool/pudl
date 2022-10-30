@@ -49,7 +49,7 @@ npm -v
 
 </details>
 
-### ➡️ Step #1. Download the Required Files
+### ➡️ Step #1. Download the required Files
 
 Download the [`gulpfile.js`](https://raw.githubusercontent.com/MaedahBatool/pudl/master/dist/gulpfile.js), [`package.json`](https://raw.githubusercontent.com/MaedahBatool/pudl/master/dist/package.json), [`.gitignore`](https://raw.githubusercontent.com/MaedahBatool/pudl/master/dist/.gitignore), and [`config.js`](https://raw.githubusercontent.com/MaedahBatool/pudl/master/dist/config.js) files inside the root folder of your project.
 
