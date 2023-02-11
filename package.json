@@ -25,7 +25,7 @@
 	"homepage": "https://github.com/MaedahBatool/pudl#readme",
 	"devDependencies": {
 		"auto-changelog": "^1.8.0",
-		"release-it": "^7.5.0"
+		"release-it": "^15.6.0"
 	},
 	"auto-changelog": {
 		"output": "CHANGELOG.md",
